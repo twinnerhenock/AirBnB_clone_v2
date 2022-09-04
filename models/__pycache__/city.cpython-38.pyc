@@ -1,0 +1,13 @@
+U^M^M
+^@^@^@^@Aúôa=^A^@^@ã^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^D^@^@^@@^@^@^@s$^@^@^@d^@Z^@d^Ad^Bl^Am^BZ^B^A^@G^@d^Cd^D<84>^@d^De^B<83>^CZ^Cd^ES^@)^Fz-Holds User class that inherits from BaseModelé^@^@^@^@)^AÚ BaseModelc^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@@^@^@^@s^X^@^@^@e^@Z^Ad^@Z^Bd^AZ^Cd^BZ^Dd^BZ^Ed^CS^@)^DÚ^DCityz<89>Initializes the City class
+    Attributes:
+        state_id (str) - Refers to the State.id
+        name (str) - The name of the city
+    Ú^@N)^FÚ^H__name__Ú
+__module__Ú^L__qualname__Ú^G__doc__Z^Hstate_idÚ^Dname©^@r
+^@^@^@r
+^@^@^@ú!/root/AirBnB_clone/models/city.pyr^C^@^@^@^F^@^@^@s^F^@^@^@^H^A^D^F^D^Ar^C^@^@^@N)^Dr^H^@^@^@Ú^Qmodels.base_modelr^B^@^@^@r^C^@^@^@r
+^@^@^@r
+^@^@^@r
+^@^@^@r^K^@^@^@Ú^H<module>^B^@^@^@s^D^@^@^@^D^A^L^C
+

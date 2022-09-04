@@ -1,0 +1,25 @@
+U^M^M
+^@^@^@^@úùôaÎ^F^@^@ã^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^C^@^@^@@^@^@^@s2^@^@^@d^@Z^@d^Ad^Bl^AZ^Ad^Ad^Cl^Bm^BZ^B^A^@d^Ad^Bl^CZ^CG^@d^Dd^E<84>^@d^E<83>^BZ^Dd^BS^@)^Fz!Module that holds class BaseModelé^@^@^@^@N)^AÚ^Hdatetimec^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^B^@^@^@@^@^@^@s0^@^@^@e^@Z^Ad^@Z^Bd^AZ^Cd^Bd^C<84>^@Z^Dd^Dd^E<84>^@Z^Ed^Fd^G<84>^@Z^Fd^Hd  <84>^@Z^Gd
+S^@)^KÚ BaseModelz
+Base classc^A^@^@^@^@^@^@^@^@^@^@^@^E^@^@^@^H^@^@^@O^@^@^@s<90>^@^@^@|^Br^|^Bi^@k^Cr^|^B ^@¡^@D^@]F\^B}^C}^D|^Cd^Ak^Bs,|^Cd^Bk^BrBt^A|^@|^Ct^B ^C|^Dd^C¡^B<83>^C^A^@q^T|^Cd^Dk^BrNq^Tq^Tt^A|^@|^C|^D<83>^C^A^@q^Tn.t^Dt^E ^F¡^@<83>^A|^@_^Gt^B ^H¡^@|^@_        t^B ^H¡^@|^@_
+t^Kj^L ^M|^@¡^A^A^@d^ES^@)^Fz½Initializes attributes for class BaseModel
+        Args:
+            id - identification number
+            *args - arguments (not used)
+            **kwargs - dictionary arguments
+        Ú
+created_atÚ
+@@@          updated_atz^T%Y-%m-%dT%H:%M:%S.%fÚ      __class__N)^NÚ^EitemsÚ^Gsetattrr^B^@^@^@Ú^HstrptimeÚ^CstrÚ^DuuidZ^Euuid4Ú^BidÚ^Cnowr^D^@^@^@r^E^@^@^@Ú^FmodelsÚ^GstorageÚ^Cnew)^EÚ^DselfÚ^DargsÚ^FkwargsÚ^AkÚ^Av©^@r^V^@^@^@ú'/root/AirBnB_clone/models/base_model.pyÚ^H__init__^K^@^@^@s^Z^@^@^@^@^H^L^A^P^A^P^A^L^A^Bÿ^H^B^H^A^D^B^P^B^N^A
+^A
+^Az^RBaseModel.__init__c^A^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^E^@^@^@C^@^@^@s^V^@^@^@d^A ^@|^@j^Aj^B|^@j^C|^@j^D¡^CS^@)^BzSReturns a formated string of classname, id, and dictionary
+        contens
+        z^L[{}] ({}) {})^EÚ^Fformatr^F^@^@^@Ú^H__name__r^L^@^@^@Ú^H__dict__©^Ar^Q^@^@^@r^V^@^@^@r^V^@^@^@r^W^@^@^@Ú^G__str__"^@^@^@s^H^@^@^@^@^E
+^A^D^@^Dÿz^QBaseModel.__str__c^A^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^B^@^@^@C^@^@^@s^X^@^@^@t^@ ^A¡^@|^@_^Bt^Cj^D ^E¡^@^A^@d^AS^@)^Bz]Saves any new information added to a class instance and
+        saves an update time
+        N)^Fr^B^@^@^@r^M^@^@^@r^E^@^@^@r^N^@^@^@r^O^@^@^@Ú^Dsaver^\^@^@^@r^V^@^@^@r^V^@^@^@r^W^@^@^@r^^^@^@^@*^@^@^@s^D^@^@^@^@^E
+^Az^NBaseModel.savec^A^@^@^@^@^@^@^@^@^@^@^@^B^@^@^@^C^@^@^@C^@^@^@s6^@^@^@|^@j^@ ^A¡^@}^A|^@j^Bj^C|^Ad^A<^@|^@j^D ^E¡^@|^Ad^B<^@|^@j^F ^E¡^@|^Ad^C<^@|^AS^@)^Dz;Returns a dictionary of all the contens of a class instancer^F^@^@^@r^D^@^@^@r^E^@^@^@)^Gr^[^@^@^@Ú^Dcopyr^F^@^@^@r^Z^@^@^@r^D^@^@^@Ú  isoformatr^E^@^@^@)^Br^Q^@^@^@Ú^Adr^V^@^@^@r^V^@^@^@r^W^@^@^@Ú^Gto_dict2^@^@^@s
+^@^@^@^@^C
+^A^L^A^N^A^N^Az^QBaseModel.to_dictN)^Hr^Z^@^@^@Ú
+__module__Ú^L__qualname__Ú^G__doc__r^X^@^@^@r^]^@^@^@r^^^@^@^@r"^@^@^@r^V^@^@^@r^V^@^@^@r^V^@^@^@r^W^@^@^@r^C^@^@^@^H^@^@^@s
+^@^@^@^H^A^D^B^H^W^H^H^H^Hr^C^@^@^@)^Er%^@^@^@r^K^@^@^@r^B^@^@^@r^N^@^@^@r^C^@^@^@r^V^@^@^@r^V^@^@^@r^V^@^@^@r^W^@^@^@Ú^H<module>^B^@^@^@s^H^@^@^@^D^A^H^A^L^A^H^C
+

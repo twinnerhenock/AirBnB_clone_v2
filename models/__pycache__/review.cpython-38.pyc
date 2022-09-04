@@ -1,0 +1,9 @@
+U^M^M
+^@^@^@^@^?úôa<80>^A^@^@ã^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^D^@^@^@@^@^@^@s$^@^@^@d^@Z^@d^Ad^Bl^Am^BZ^B^A^@G^@d^Cd^D<84>^@d^De^B<83>^CZ^Cd^ES^@)^Fz-Holds User class that inherits from BaseModelé^@^@^@^@)^AÚ     BaseModelc^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@@^@^@^@s^\^@^@^@e^@Z^Ad^@Z^Bd^AZ^Cd^BZ^Dd^BZ^Ed^BZ^Fd^CS^@)^DÚ^FReviewz¹Initalizes Review class
+    Attributes:
+        place_id (str) - Refers to the Place.id
+        user_id (str) - Refers to the User.id
+        text (str) - The content of the review
+    Ú^@N)^GÚ^H__name__Ú
+__module__Ú^L__qualname__Ú^G__doc__Z^Hplace_idÚ^Guser_idÚ^Dtext©^@r^K^@^@^@r^K^@^@^@ú#/root/AirBnB_clone/models/review.pyr^C^@^@^@^F^@^@^@s^H^@^@^@^H^A^D^G^D^A^D^Ar^C^@^@^@N)^Dr^H^@^@^@Ú^Qmodels.base_modelr^B^@^@^@r^C^@^@^@r^K^@^@^@r^K^@^@^@r^K^@^@^@r^L^@^@^@Ú^H<module>^B^@^@^@s^D^@^@^@^D^A^L^C
+
