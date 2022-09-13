@@ -1,1 +1,1 @@
-let g:mdip_imgdir_absolute = /home/henock/my-vagrant-project/icon.png
+![icon.png](/home/henock/my-vagrant-project/)
